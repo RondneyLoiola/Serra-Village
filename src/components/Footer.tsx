@@ -31,21 +31,21 @@ const Footer = () => {
             <p className="label-caps text-gold mb-4">Redes Sociais</p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.instagram.com/serravillagehotel/"
                 className="w-10 h-10 rounded-xl bg-primary-foreground/10 flex items-center justify-center text-primary-foreground/60 hover:bg-gold hover:text-accent-foreground transition-all duration-300"
                 aria-label="Instagram"
               >
                 <Instagram size={18} />
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/serravillagehotel"
                 className="w-10 h-10 rounded-xl bg-primary-foreground/10 flex items-center justify-center text-primary-foreground/60 hover:bg-gold hover:text-accent-foreground transition-all duration-300"
                 aria-label="Facebook"
               >
                 <Facebook size={18} />
               </a>
               <a
-                href="#"
+                href="mailto:serravillagehotel@hotmail.com"
                 className="w-10 h-10 rounded-xl bg-primary-foreground/10 flex items-center justify-center text-primary-foreground/60 hover:bg-gold hover:text-accent-foreground transition-all duration-300"
                 aria-label="Email"
               >
